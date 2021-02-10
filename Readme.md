@@ -1,3 +1,5 @@
+#test
+
 # Watterott CO2 Ampel Plus
 
 Dieses Repository beinhaltet eine alternative Firmware für die Watterott CO2 Ampel Plus, welche die Messwerte der CO2 Ampel über WiFi mit Hilfe von MQTT an ein zentrales Monitoring versenden kann. Außerdem verfügt die Firmware über ein kleines Webinterface, welches die gemessenen Daten in Form von Text und einer kleinen Ampel Grafik anzeigt.
