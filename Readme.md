@@ -1,4 +1,14 @@
-#test
+# Umstelung auf platformio
+
+- anlegen der platformio.ini          erledgt
+- custom board angelegen              erledigt
+- extra_script.py anlegen             erledigt
+- binary für bootloaderbetrieb        erledigt
+- compile und linken                  fehlerfrei
+- hochladen in CO2 Ampel Plus         fehlerfrei
+- Funktionstest                       erfolgreich
+- hochladen der zusätzlich Dateien    todo
+- ...
 
 # Watterott CO2 Ampel Plus
 
